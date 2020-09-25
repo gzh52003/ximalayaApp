@@ -1,0 +1,54 @@
+{
+    "username" : "haoge",
+    "password" : "111",
+    "role" : "会员",
+    "gender" : "男"
+}
+{
+    "username" : "xiaohui",
+    "password" : "111",
+    "role" : "会员",
+    "gender" : "男"
+}
+
+{
+    "username" : "xiaoliang",
+    "password" : "111",
+    "role" : "会员",
+    "gender" : "女"
+}
+
+{
+    "username" : "xiaojie",
+    "password" : "111",
+    "role" : "会员",
+    "gender" : "女"
+}
+
+{
+    "username" : "xiaozhu",
+    "password" : "111",
+    "role" : "",
+    "gender" : ""
+}
+
+{
+    "username" : "xiaoli",
+    "password" : "111",
+    "role" : "",
+    "gender" : ""
+}
+
+{
+    "username" : "xiaoliu",
+    "password" : "111",
+    "role" : "",
+    "gender" : ""
+}
+
+{
+    "username" : "xiaochen",
+    "password" : "111",
+    "role" : "",
+    "gender" : ""
+}
